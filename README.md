@@ -9,7 +9,10 @@ Just copy the `alien` file and put it in `~/.local/bin`
 
 ## Running
 Examples:
+
 `alien Your recon has finished!`
+
 `echo "Your recon has finished!" | alien`
+
 
 ![xnl-alien](https://user-images.githubusercontent.com/84544946/134825124-d370d805-5f39-4c5d-8bcd-9e36eaa35190.png)
